@@ -1,4 +1,4 @@
-# Bowfolios
+# Team Tres
 
 ## Table of contents
 
