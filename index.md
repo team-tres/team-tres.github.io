@@ -52,7 +52,7 @@
       Ryne Stagen
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Tatum Umiamaka" style="border-radius: 50%;">
+      <img src="/images/Tatum_picture.png" alt="Tatum Umiamaka" style="border-radius: 50%;">
       <br />
       <a href="https://tatumumi.github.io/">Tatum Umiamaka</a>
     </td>
