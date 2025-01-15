@@ -49,7 +49,7 @@
     <td align="center">
       <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ryne Stagen" style="border-radius: 50%;">
       <br />
-      Ryne Stagen
+       <a href="https://Senyr.github.io/">Ryne Stagen</a>
     </td>
     <td align="center">
       <img src="/images/Tatum_picture.png" alt="Tatum Umiamaka" style="border-radius: 50%;">
