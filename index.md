@@ -37,7 +37,7 @@
     <td align="center">
       <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
       <br />
-      Jayden Ontalan Capistrano
+      <a href="https://jaydenontalancapistrano.github.io/">Jayden Ontalan Capistrano</a>
     </td>
     <td align="center">
       <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ethan Christman" style="border-radius: 50%;">
