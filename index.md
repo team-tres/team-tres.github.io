@@ -13,7 +13,7 @@
 * [Jayrell Allen Ballesteros](https://kyj1n.github.io/)
 * [Hayden Bireley](https://hbireley.github.io/)
 * [Phat Ca](https://github.com/PhatCa)
-* [Jayden Ontalan Capistrano](https://)
+* Jayden Ontalan Capistrano
 * [Ethan Christman](https://ethvnchristman.github.io/)
 * Ryne Stagen
 * [Tatum Umiamaka](https://tatumumi.github.io/)
