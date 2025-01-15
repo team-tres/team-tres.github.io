@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ronan Russel Andal" style="border-radius: 50%;">
+      <img src="/images/ronan-image.JPG" alt="Ronan Russel Andal" style="border-radius: 50%;">
       <br />
       <a href="https://ronanandal.github.io/">Ronan Russel Andal</a>
     </td>
