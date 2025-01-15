@@ -10,7 +10,16 @@
 
 ## Team Profiles
 
-<table>
+<style>
+  .team-profile img {
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    border-radius: 50%; /* Make the image circular */
+    object-fit: cover; /* Ensure the image scales correctly without distortion */
+  }
+</style>
+
+<table class = "team-profile">
   <tr>
     <td align="center">
       <img src="/images/ronan-image.jpg" alt="Ronan Russel Andal" style="border-radius: 50%; ">
