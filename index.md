@@ -35,7 +35,7 @@
       <a href="https://github.com/PhatCa">Phat Ca</a>
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
+      <img src="/images/Jayden-image.jpg" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
       <br />
       <a href="https://jaydenontalancapistrano.github.io/">Jayden Ontalan Capistrano</a>
     </td>
