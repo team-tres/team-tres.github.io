@@ -2,9 +2,9 @@
 
 ## Table of contents
 
-* [Overview](#overview)
-* [Team Profiles](#team-profiles)
-* [Team Contract](#team-contract)
+- [Overview](#overview)
+- [Team Profiles](#team-profiles)
+- [Team Contract](#team-contract)
 
 ## Overview
 
@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Phat Ca" style="border-radius: 50%;">
+      <img src="/images/phat-image.png" alt="Phat Ca" style="border-radius: 50%;">
       <br />
       <a href="https://github.com/PhatCa">Phat Ca</a>
     </td>
@@ -59,6 +59,4 @@
   </tr>
 </table>
 
-
 ## [Team Contract](https://docs.google.com/document/d/1PtK9j9zk-jefk0_NDozeijfspRGjd_3e9DQLcb-CBsA/edit?usp=sharing)
-
