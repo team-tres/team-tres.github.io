@@ -12,10 +12,10 @@
 
 <style>
   .team-profile img {
-    width: 150px; /* Set a fixed width */
-    height: 150px; /* Set a fixed height */
-    border-radius: 50%; /* Make the image circular */
-    object-fit: cover; /* Ensure the image scales correctly without distortion */
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
   }
 </style>
 
@@ -36,13 +36,13 @@
       <br />
       <a href="https://hbireley.github.io/">Hayden Bireley</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="/images/phat-image.png" alt="Phat Ca" style="border-radius: 50%;">
       <br />
       <a href="https://github.com/PhatCa">Phat Ca</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="/images/Jayden-image.jpg" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
       <br />
@@ -53,8 +53,6 @@
       <br />
       <a href="https://ethvnchristman.github.io/">Ethan Christman</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ryne Stagen" style="border-radius: 50%;">
       <br />
