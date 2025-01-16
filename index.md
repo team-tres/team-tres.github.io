@@ -45,7 +45,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
       <a href="https://kyj1n.github.io/">Jayrell Allen Ballesteros</a>
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Hayden Bireley" style="border-radius: 50%;">
+      <img src="/images/hayden.png" style="border-radius: 50%;">
       <br />
       <a href="https://hbireley.github.io/">Hayden Bireley</a>
     </td>
