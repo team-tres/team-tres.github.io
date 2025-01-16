@@ -9,6 +9,8 @@
 
 ## Overview
 
+<img src="./images/spire-logo.png" alt="Spire Hawaii Logo" style="width: 20%; height: auto;" />
+
 Spire is an independent accounting and strategic consulting firm that offers insight and solutions to an organization's most difficult problems. Our small engagement teams, which are made up of seasoned strategists, accountants, marketers, developers, and designers, produce significant outcomes.
 
 As we know. Spire has developed a financial sustainability model to help organizations make informed financial and strategic decisions by consolidating financial data and integrating nonfinancial factors. Built on Excel, the model features two key worksheets—the Financial Compilation (“FC”) and the FS Dashboard—linked through interconnected variables. While effective, Spire is interested in transitioning to a newer, more robust, and user-friendly software platform that leverages advanced technology and the creativity of student software engineers. Additional features may be introduced later as this transition progresses.
