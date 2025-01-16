@@ -3,10 +3,19 @@
 ## Table of contents
 
 - [Overview](#overview)
+- [Our Goals](#our-goals)
 - [Team Profiles](#team-profiles)
 - [Team Contract](#team-contract)
 
 ## Overview
+
+Spire is an independent accounting and strategic consulting firm that offers insight and solutions to an organization's most difficult problems. Our small engagement teams, which are made up of seasoned strategists, accountants, marketers, developers, and designers, produce significant outcomes.
+
+As we know. Spire has developed a financial sustainability model to help organizations make informed financial and strategic decisions by consolidating financial data and integrating nonfinancial factors. Built on Excel, the model features two key worksheets—the Financial Compilation (“FC”) and the FS Dashboard—linked through interconnected variables. While effective, Spire is interested in transitioning to a newer, more robust, and user-friendly software platform that leverages advanced technology and the creativity of student software engineers. Additional features may be introduced later as this transition progresses.
+
+## Our Goals
+
+We are a team of eight computer science students from UH Manoa, dedicated to transforming Spire Hawaii's financial sustainability model into a user-friendly web application. Throughout the semester, we will collaborate with Spire through regular milestones meetings, gathering feedback and updating the application to align with their needs and requests. Our aim is to deliver a robust and accessible platform that integrates advanced technology while meeting Spire's goals for enhanced usability and functionality.
 
 ## Team Profiles
 
