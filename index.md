@@ -62,7 +62,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
       <a href="https://jaydenontalancapistrano.github.io/">Jayden Ontalan Capistrano</a>
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ethan Christman" style="border-radius: 50%;">
+      <img src="/images/ethan-image.jpg" alt="Ethan Christman" style="border-radius: 50%;">
       <br />
       <a href="https://ethvnchristman.github.io/">Ethan Christman</a>
     </td>
