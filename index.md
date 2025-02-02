@@ -21,6 +21,72 @@ As we know. Spire has developed a financial sustainability model to help organiz
 
 We are a team of eight computer science students from UH Manoa, dedicated to transforming Spire Hawaii's financial sustainability model into a user-friendly web application. Throughout the semester, we will collaborate with Spire through regular milestones meetings, gathering feedback and updating the application to align with their needs and requests. Our aim is to deliver a robust and accessible platform that integrates advanced technology while meeting Spire's goals for enhanced usability and functionality.
 
+## User Guide
+### Landing
+<div align="center">
+  <img src="./images/landing.png" alt="Landing Page" style="width: 50%; height: auto;" />
+  <p>
+    This is the first page users see on the application.
+  </p>
+</div>
+
+### Sign Up
+<div align="center">
+  <img src="./images/signup.png" alt="Sign-up Page" style="width: 50%; height: auto;" />
+  <p>
+    This page allows clients to sign up for an account by inputing their email, password, and their role.
+  </p>
+</div>
+
+### Sign In
+<div align="center">
+  <img src="./images/signin_info.png" alt="Sign-in Page" style="width: 50%; height: auto;" />
+  <p>
+    On this page, users can sign in to their account by inputing their email and password.
+  </p>
+</div>
+
+### Sign Out
+<div align="center">
+  <img src="./images/signout.png" alt="Sign-out Page" style="width: 50%; height: auto;" />
+  <p>
+    Users can sign out of their account by clicking the sign out button.
+  </p>
+</div>
+
+### Change password
+<div align="center">
+  <img src="./images/change_password.png" alt="Change password Page" style="width: 50%; height: auto;" />
+  <p>
+    Users may change their password once they log into their account. They can do this by inputing their old and new password.
+  </p>
+</div>
+
+### About
+<div align="center">
+  <img src="./images/about.png" alt="About Page" style="width: 50%; height: auto;" />
+  <img src="./images/about2.png" alt="About Page 2" style="width: 50%; height: auto;" />
+  <p>
+    The about page can be navigated to by clicking "About us" in the footer. On this page user can read about the mission of the application and how it works.
+  </p>
+</div>
+
+### Analyst Dashboard
+<div align="center">
+  <img src="./images/analyst_dashboard.png" alt="Analyst Dashboard" style="width: 50%; height: auto;" />
+  <p>
+    The analyst dashboard can only be seen by users with an analyst role. On this page the user can create and view existing workpapers, scenarios, forecasts, and stress tests. 
+  </p>
+</div>
+
+### Input Finacial Information Page
+<div align="center">
+  <img src="./images/input_finacials.png" alt="Input Finacial" style="width: 50%; height: auto;" />
+  <p>
+    This page allows users with an auditor role to input finacial information about a company: their name, revenue, net income, and operating expenses. 
+  </p>
+</div>
+
 ## Team Profiles
 
 <style>
