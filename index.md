@@ -90,8 +90,8 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 </div>
 
 ## Project Management Links
-- <u>[Milestone 1](https://github.com/orgs/team-tres/projects/1)</u>
-- <u>[Milestone 2](https://github.com/orgs/team-tres/projects/4)</u>
+- [Milestone 1](https://github.com/orgs/team-tres/projects/1)
+- [Milestone 2](https://github.com/orgs/team-tres/projects/4)
 
 ## Team Profiles
 
@@ -151,4 +151,4 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
   </tr>
 </table>
 
-## <u>[Team Contract](https://docs.google.com/document/d/1PtK9j9zk-jefk0_NDozeijfspRGjd_3e9DQLcb-CBsA/edit?usp=sharing)</u>
+## [Team Contract (Click on me!)](https://docs.google.com/document/d/1PtK9j9zk-jefk0_NDozeijfspRGjd_3e9DQLcb-CBsA/edit?usp=sharing)
