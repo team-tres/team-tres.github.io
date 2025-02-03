@@ -7,7 +7,7 @@
 - [User Guide](#user-guide)
 - [Project Management Links](#project-management-links)
 - [Team Profiles](#team-profiles)
-- [Team Contract](#team-contract-(click-on-me!))
+- [Team Contract](#team-contract-click-on-me)
 
 ## Overview
 
