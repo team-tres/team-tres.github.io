@@ -5,9 +5,9 @@
 - [Overview](#overview)
 - [Our Goals](#our-goals)
 - [User Guide](#user-guide)
-- [Project Management Links](#milestones)
+- [Project Management Links](#project-management-links)
 - [Team Profiles](#team-profiles)
-- [Team Contract](#team-contract)
+- [Team Contract](#team-contract-(click-on-me!))
 
 ## Overview
 
