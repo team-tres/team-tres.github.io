@@ -114,7 +114,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
       <a href="https://ronanandal.github.io/">Ronan Russel Andal</a>
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Jayrell Allen Ballesteros" style="border-radius: 50%;">
+      <img src="/images/jayrell.jpeg" alt="Jayrell Allen Ballesteros" style="border-radius: 50%;">
       <br />
       <a href="https://kyj1n.github.io/">Jayrell Allen Ballesteros</a>
     </td>
@@ -141,7 +141,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
       <a href="https://ethvnchristman.github.io/">Ethan Christman</a>
     </td>
     <td align="center">
-      <img src="/images/Hawaii_Warriors_logo.svg.png" alt="Ryne Stagen" style="border-radius: 50%;">
+      <img src="/images/ryne.jpeg" alt="Ryne Stagen" style="border-radius: 50%;">
       <br />
        <a href="https://Senyr.github.io/">Ryne Stagen</a>
     </td>
