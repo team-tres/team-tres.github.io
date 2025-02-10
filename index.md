@@ -1,6 +1,6 @@
 # Team Tres
 
-[![ci-badge](https://github.com/team-tres/team-tres-app/workflows/nextjs-application-template/badge.svg)]
+[![ci-badge](https://github.com/team-tres/team-tres-app/workflows/team-tres-app/badge.svg)]
 
 ## Table of contents
 
