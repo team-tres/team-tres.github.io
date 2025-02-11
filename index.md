@@ -1,6 +1,6 @@
 # Team Tres
 
-[![ci-badge](https://github.com/team-tres/team-tres-app/workflows/team-tres-app/badge.svg)]
+[![team-tres-app](https://github.com/team-tres/team-tres-app/actions/workflows/ci.yml/badge.svg)](https://github.com/team-tres/team-tres-app/actions/workflows/ci.yml)
 
 ## Table of contents
 
