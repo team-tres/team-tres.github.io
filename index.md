@@ -36,9 +36,9 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 
 ### Sign-Up Page
 <div align="center">
-  <img src="./images/signup.png" alt="Sign-up Page" style="width: 100%; height: auto;" />
+  <img src="./images/Updated-sign-up-2:11.png" alt="Sign-up Page" style="width: 100%; height: auto;" />
   <p>
-    This page allows clients to sign up for an account by inputing their email, password, and their role.
+    This page allows clients to sign up for an account by inputing their email, password, their role, and the company they are associated with.
   </p>
 </div>
 
