@@ -36,7 +36,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 
 ### Sign-Up Page
 <div align="center">
-  <img src="./images/Updated-sign-up-2:11.png" alt="Sign-up Page" style="width: 100%; height: auto;" />
+  <img src="./images/signup.png" alt="Sign-up Page" style="width: 100%; height: auto;" />
   <p>
     This page allows clients to sign up for an account by inputing their email, password, their role, and the company they are associated with.
   </p>
@@ -75,6 +75,14 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
   </p>
 </div>
 
+### CLient Dashboard
+<div align="center">
+  <img src="./images/client_dashboard.png" alt="Analyst Dashboard" style="width: 100%; height: auto;" />
+  <p>
+    The client dashboard is accessible exclusively to users with a client role. It provides a centralized hub where users can manage their account settings, review their account summary, and gain insights into their company's sustainability model, stress tests, and forecasts.
+  </p>
+</div>
+
 ### Analyst Dashboard
 <div align="center">
   <img src="./images/analyst_dashboard.png" alt="Analyst Dashboard" style="width: 100%; height: auto;" />
@@ -86,14 +94,16 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 ### Input Finacial Information Page
 <div align="center">
   <img src="./images/input_finacials.png" alt="Input Finacial" style="width: 100%; height: auto;" />
+  <img src="./images/input_finacials2.png" alt="Input Finacial2" style="width: 100%; height: auto;" />
   <p>
-    This page allows users with an auditor role to input finacial information about a company: their name, revenue, net income, and operating expenses. 
+    This page allows users exclusively with an auditor role to input finacial information for a company.
   </p>
 </div>
 
 ## Project Management Links
 - [Milestone 1](https://github.com/orgs/team-tres/projects/1)
 - [Milestone 2](https://github.com/orgs/team-tres/projects/4)
+- [Milestone 3](https://github.com/orgs/team-tres/projects/5)
 
 ## Team Profiles
 
