@@ -93,8 +93,8 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 
 ### Input Finacial Information Page
 <div align="center">
-  <img src="./images/input_finacials.png" alt="Input Finacial" style="width: 100%; height: auto;" />
-  <img src="./images/input_finacials2.png" alt="Input Finacial2" style="width: 100%; height: auto;" />
+  <img src="./images/input_financials.png" alt="Input Finacial" style="width: 100%; height: auto;" />
+  <img src="./images/input_financials2.png" alt="Input Finacial2" style="width: 100%; height: auto;" />
   <p>
     This page allows users exclusively with an auditor role to input finacial information for a company.
   </p>
