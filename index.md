@@ -153,12 +153,12 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
     <td align="center">
       <img src="/images/Jayden-image.jpg" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
       <br />
-      <a href="https://jaydenontalancapistrano.github.io/">Jayden Ontalan Capistrano</a>
+      <a href="https://jaydenontalancapistrano.github.io/">Jayden Capistrano</a>
     </td>
     <td align="center">
       <img src="/images/ronan-image.jpg" alt="Ronan Russel Andal" style="border-radius: 50%; ">
       <br />
-      <a href="https://ronanandal.github.io/">Ronan Russel Andal</a>
+      <a href="https://ronanandal.github.io/">Ronan Andal</a>
     </td>
     <td align="center">
       <img src="/images/hayden.png" style="border-radius: 50%;">
