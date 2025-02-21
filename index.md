@@ -117,11 +117,18 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
 </style>
 
 <table class = "team-profile">
+
+### Frontend Team
   <tr>
     <td align="center">
-      <img src="/images/ronan-image.jpg" alt="Ronan Russel Andal" style="border-radius: 50%; ">
+      <img src="/images/ethan-image.jpg" alt="Ethan Christman" style="border-radius: 50%;" width="200" height="200">
       <br />
-      <a href="https://ronanandal.github.io/">Ronan Russel Andal</a>
+      <a href="https://ethvnchristman.github.io/">Ethan Christman</a>
+    </td>
+    <td align="center">
+      <img src="/images/Tatum_picture.png" alt="Tatum Umiamaka" style="border-radius: 50%;">
+      <br />
+      <a href="https://tatumumi.github.io/">Tatum Umiamaka</a>
     </td>
     <td align="center">
       <img src="/images/jayrell.jpeg" alt="Jayrell Allen Ballesteros" style="border-radius: 50%;">
@@ -129,36 +136,33 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
       <a href="https://kyj1n.github.io/">Jayrell Allen Ballesteros</a>
     </td>
     <td align="center">
-      <img src="/images/hayden.png" style="border-radius: 50%;">
+      <img src="/images/ryne.jpeg" alt="Ryne Stagen" style="border-radius: 50%;">
       <br />
-      <a href="https://hbireley.github.io/">Hayden Bireley</a>
+       <a href="https://Senyr.github.io/">Ryne Stagen</a>
     </td>
+  </tr>
+
+  ### Backend Team
+  <tr>
     <td align="center">
       <img src="/images/phat-image.png" alt="Phat Ca" style="border-radius: 50%;">
       <br />
       <a href="https://github.com/PhatCa">Phat Ca</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="/images/Jayden-image.jpg" alt="Jayden Ontalan Capistrano" style="border-radius: 50%;">
       <br />
       <a href="https://jaydenontalancapistrano.github.io/">Jayden Ontalan Capistrano</a>
     </td>
     <td align="center">
-      <img src="/images/ethan-image.jpg" alt="Ethan Christman" style="border-radius: 50%;" width="200" height="200">
+      <img src="/images/ronan-image.jpg" alt="Ronan Russel Andal" style="border-radius: 50%; ">
       <br />
-      <a href="https://ethvnchristman.github.io/">Ethan Christman</a>
+      <a href="https://ronanandal.github.io/">Ronan Russel Andal</a>
     </td>
     <td align="center">
-      <img src="/images/ryne.jpeg" alt="Ryne Stagen" style="border-radius: 50%;">
+      <img src="/images/hayden.png" style="border-radius: 50%;">
       <br />
-       <a href="https://Senyr.github.io/">Ryne Stagen</a>
-    </td>
-    <td align="center">
-      <img src="/images/Tatum_picture.png" alt="Tatum Umiamaka" style="border-radius: 50%;">
-      <br />
-      <a href="https://tatumumi.github.io/">Tatum Umiamaka</a>
+      <a href="https://hbireley.github.io/">Hayden Bireley</a>
     </td>
   </tr>
 </table>
