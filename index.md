@@ -132,7 +132,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
     <td align="center">
       <img src="/images/jayrell.jpeg" alt="Jayrell Allen Ballesteros" style="border-radius: 50%;">
       <br />
-      <a href="https://kyj1n.github.io/">Jayrell Allen Ballesteros</a>
+      <a href="https://kyj1n.github.io/">Jayrell Ballesteros</a>
     </td>
     <td align="center">
       <img src="/images/ryne.jpeg" alt="Ryne Stagen" style="border-radius: 50%;">
