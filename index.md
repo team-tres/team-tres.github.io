@@ -142,7 +142,7 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
   </tr>
 </table>
 
-  ### Backend Team
+### Backend Team
 <table class = "team-profile">
   <tr>
     <td align="center">
