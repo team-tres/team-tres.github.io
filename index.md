@@ -116,9 +116,8 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
   }
 </style>
 
-<table class = "team-profile">
-
 ### Frontend Team
+<table class = "team-profile">
   <tr>
     <td align="center">
       <img src="/images/ethan-image.jpg" alt="Ethan Christman" style="border-radius: 50%;" width="200" height="200">
@@ -141,8 +140,10 @@ We are a team of eight computer science students from UH Manoa, dedicated to tra
        <a href="https://Senyr.github.io/">Ryne Stagen</a>
     </td>
   </tr>
+</table>
 
   ### Backend Team
+<table class = "team-profile">
   <tr>
     <td align="center">
       <img src="/images/phat-image.png" alt="Phat Ca" style="border-radius: 50%;">
